@@ -1,2 +1,10 @@
-# Dont-Forget-App
-A nodejs program that reminds you of things you don't want to forget when the time comes.
+# Install
+## Require Libs
+1- Install Mysql
+```
+npm install mysql
+```
+2- Install Readline
+```
+npm install readline
+```
