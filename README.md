@@ -23,7 +23,7 @@ run app.js
 node app.js
 ```
 If the duty day has come, you will be warned directly.
-U can 
+you can 
 ```
 1- make the task look like it was done before its due date
 2- delete task
